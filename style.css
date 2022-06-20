@@ -1,0 +1,64 @@
+body{
+
+}
+
+#banner {
+	width: 100%
+}
+
+.principal {
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal{
+	padding-left: 20px;
+	text-align: center;
+}
+
+.titulo-esquerda{
+	text-align: left;
+}
+
+.titulo-centralizado{
+	text-align: center
+}
+
+h3{ 
+	text-align: left;
+}
+
+p{
+	text-align: center;
+}
+
+.itens {
+	font-style: italic;	
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul{
+	display: flex;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+
+.imagembeneficios{
+	width: 5%;
+}
+
+.minhas-images {
+	width: 250px;
+	height: 300px
+}
+
+.espelho_infinito{
+	width: 50px;
+	height: 100px
+}
